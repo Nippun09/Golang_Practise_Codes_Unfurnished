@@ -14,7 +14,7 @@ func Bubblesort(input *[]int) {
 	n := len(*input)
 	var swap int
 	number_of_swaps := 0
-	breakcounter := 0
+
 	for i := 0; i < n; i++ {
 		number_of_swaps = 0
 		for j := 0; j < n-i-1; j++ {
@@ -24,15 +24,10 @@ func Bubblesort(input *[]int) {
 				(*input)[j] = swap
 				number_of_swaps++
 			}
-			if number_of_swaps == 0 {
-				//fmt.Println("increasing break counter")
-				breakcounter++
-				break
-			}
+
 		}
 
-		if breakcounter == 1 {
-			//fmt.Println("breaking out of outermost loop")
+		if number_of_swaps == 0 {
 			break
 		}
 	}
