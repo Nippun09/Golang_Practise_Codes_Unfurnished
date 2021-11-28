@@ -1,0 +1,11 @@
+//switch with data types as cases
+https://play.golang.org/p/9s3h_VIAyjt
+
+//paired number, if any whare given numer is not paire return false
+https://play.golang.org/p/ocneTdB6wO1
+
+//Inheritance in GO
+https://go.dev/play/p/tj9bc-CddLB
+
+//Quicksort using reflect.Swapper
+https://go.dev/play/p/Jy2HwyjEJLS
