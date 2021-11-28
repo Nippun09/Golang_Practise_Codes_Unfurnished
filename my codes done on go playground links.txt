@@ -1,7 +1,7 @@
 //switch with data types as cases
 https://play.golang.org/p/9s3h_VIAyjt
 
-//paired number, if any whare given numer is not paire return false
+//paired numbers, if any where given number is not paired return false
 https://play.golang.org/p/ocneTdB6wO1
 
 //Inheritance in GO
