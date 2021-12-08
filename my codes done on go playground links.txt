@@ -9,3 +9,6 @@ https://go.dev/play/p/tj9bc-CddLB
 
 //Quicksort using reflect.Swapper
 https://go.dev/play/p/Jy2HwyjEJLS
+
+//sum of indexex should be minimum(desciption added in code comments)
+https://go.dev/play/p/vR2bZhnAJYD
