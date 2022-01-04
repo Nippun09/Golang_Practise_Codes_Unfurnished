@@ -12,3 +12,11 @@ https://go.dev/play/p/Jy2HwyjEJLS
 
 //sum of indexex should be minimum(desciption added in code comments)
 https://go.dev/play/p/vR2bZhnAJYD
+
+//channel usages
+https://go.dev/play/p/myMgM0x6no0
+https://go.dev/play/p/xWs2IhVtMy3
+https://go.dev/play/p/k9dwbOuY_GI
+
+//stack implementation in Golang
+https://go.dev/play/p/BvOF8KwIZx-
